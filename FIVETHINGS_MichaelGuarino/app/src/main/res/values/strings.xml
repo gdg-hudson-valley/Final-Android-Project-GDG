@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FIVETHINGS_MichaelGuarino</string>
+    <string name="user_namePrompt">Name</string>
+    <string name="user_namePromptTwo">(enter name)</string>
+    <string name="user_emailPrompt">Email</string>
+    <string name="user_emailPromptTwo">(enter email address to send results)</string>
+    <string name="user_agePrompt">Age</string>
+    <string name="user_agePromptTwo">(enter age, needed to calculate metabolism)</string>
+    <string name="user_genderPrompt">Biological Gender</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_male">Male</string>
+    <string name="user_genderPromptTwo">(select gender, needed to calculate metabolism)</string>
+    <string name="user_heightPrompt">Height</string>
+    <string name="height_unit">ft</string>
+    <string name="height_unit_two">in</string>
+    <string name="user_weightPrompt">Weight</string>
+    <string name="weight_unit">lbs</string>
+    <string name="user_weightPromptTwo">(enter weight, needed to calculate metabolism)</string>
+    <string name="user_activityLevelPrompt">Activity Level</string>
+    <string name="activityLevel_value1">Sedentary...I am a programmer</string>
+    <string name="activityLevel_value2">Slightly Active</string>
+    <string name="activityLevel_value3">Active</string>
+    <string name="activityLevel_value4">Very Active</string>
+    <string name="user_activityLevelPromptTwo">(enter activity level, needed to calculate metabolism)</string>
+    <string name="WHY_Age">Chronological age is needed to calculate metabolism because it allows for assumptions to be made about the individual\'s muscle mass, bone mass, and endocrine system.</string>
+    <string name="WHY_Gender">Biological gender is needed to calculate metabolism because it allows for assumptions to be made about the individual\'s muscle mass, bone mass, and endocrine system.</string>
+    <string name="WHY_Height">An individual\'s metabolism is largely dependent on their body\'s surface area, which requires height to calculate. </string>
+    <string name="WHY_Weight">An individual\'s metabolism is largely dependent on their body\'s surface area, which requires weight to calculate. </string>
+    <string name="WHY_PhysicalActivity">An individual\'s metabolism depends on their physical activity because calories are used to fuel physical activity. </string>
+</resources>
